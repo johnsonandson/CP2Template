@@ -24,7 +24,7 @@
   "customizations": {
         "codespaces": {
       "repositories": {
-        "my_org/my_repo": {
+        "johnsonandson/Solitaire": {
           "permissions": {
             "issues": "write"
           }
